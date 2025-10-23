@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\хлам\учеба\4 курс\УП\ДЭ\ClearPlanet\ClearPlanet\bin\Debug\ClearPlanet.exe.config
+C:\Users\User\Desktop\хлам\учеба\4 курс\УП\ДЭ\ClearPlanet\ClearPlanet\bin\Debug\ClearPlanet.exe
+C:\Users\User\Desktop\хлам\учеба\4 курс\УП\ДЭ\ClearPlanet\ClearPlanet\bin\Debug\ClearPlanet.pdb
+C:\Users\User\Desktop\хлам\учеба\4 курс\УП\ДЭ\ClearPlanet\ClearPlanet\obj\Debug\ClearPlanet.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\хлам\учеба\4 курс\УП\ДЭ\ClearPlanet\ClearPlanet\obj\Debug\ClearPlanet.PartnerForm.resources
+C:\Users\User\Desktop\хлам\учеба\4 курс\УП\ДЭ\ClearPlanet\ClearPlanet\obj\Debug\ClearPlanet.MainForm.resources
+C:\Users\User\Desktop\хлам\учеба\4 курс\УП\ДЭ\ClearPlanet\ClearPlanet\obj\Debug\ClearPlanet.Properties.Resources.resources
+C:\Users\User\Desktop\хлам\учеба\4 курс\УП\ДЭ\ClearPlanet\ClearPlanet\obj\Debug\ClearPlanet.csproj.GenerateResource.cache
+C:\Users\User\Desktop\хлам\учеба\4 курс\УП\ДЭ\ClearPlanet\ClearPlanet\obj\Debug\ClearPlanet.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\хлам\учеба\4 курс\УП\ДЭ\ClearPlanet\ClearPlanet\obj\Debug\ClearPlanet.exe
+C:\Users\User\Desktop\хлам\учеба\4 курс\УП\ДЭ\ClearPlanet\ClearPlanet\obj\Debug\ClearPlanet.pdb
+C:\Users\User\Desktop\хлам\учеба\4 курс\УП\ДЭ\ClearPlanet\ClearPlanet\obj\Debug\ClearPlanet.AddPartnerForm.resources
